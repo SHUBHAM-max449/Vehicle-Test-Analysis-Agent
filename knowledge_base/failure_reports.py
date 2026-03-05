@@ -1,0 +1,17 @@
+failure_reports = [
+    "Brake pressure spike above 60 bar during high speed cornering. Root cause: caliper seal failure. Severity: Critical.",
+    "Engine temperature exceeded 130C during track test. Root cause: coolant pump degradation. Severity: High.",
+    "Torque spike detected during acceleration phase. Root cause: drivetrain coupling wear. Severity: Medium.",
+    "Sudden brake pressure drop below 10 bar at 150kmh. Root cause: brake fluid leak. Severity: Critical.",
+    "Engine temp fluctuation between 85C and 125C repeatedly. Root cause: thermostat malfunction. Severity: High.",
+    "Torque oscillation detected at low speed. Root cause: transmission mount failure. Severity: Medium.",
+    "Brake pressure instability during ABS activation. Root cause: ABS sensor fault. Severity: High.",
+    "Engine overheating above 135C on track lap 3. Root cause: radiator blockage. Severity: Critical.",
+    "Speed sensor dropout at 200kmh. Root cause: wheel speed sensor wiring fault. Severity: High.",
+    "Torque drop to zero during acceleration. Root cause: clutch plate wear. Severity: Critical.",
+    "Brake pressure slow response time detected. Root cause: brake booster vacuum leak. Severity: Medium.",
+    "Engine temp normal but oil pressure drop. Root cause: oil pump wear. Severity: High.",
+    "Intermittent torque spikes during cornering. Root cause: limited slip differential wear. Severity: Medium.",
+    "High speed brake fade detected above 180kmh. Root cause: brake disc warping. Severity: High.",
+    "Engine rpm spike without throttle input. Root cause: throttle position sensor fault. Severity: Medium.",
+]
