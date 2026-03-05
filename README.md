@@ -335,10 +335,6 @@ Risk of component failure under continued test conditions: HIGH.
 
 **Shubham Chitaguppe**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/SHUBHAM-max449)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=flat-square)](https://your-portfolio.com)
-
 ---
 
 <div align="center">
